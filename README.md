@@ -1,2 +1,2 @@
 # bryansdevs
-This is a repository to check and validare software projects for .net course 
+This is a repository to check and validate software projects for .net course 
